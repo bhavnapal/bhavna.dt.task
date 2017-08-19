@@ -37,7 +37,7 @@ app.config(function($routeProvider){
 
 // The REST endpoint to get the data 
 // you can change the name of the domain here
-app.constant('REST_URI', 'http://localhost:8080/collaboration/api/');
+app.constant('REST_URI', 'http://localhost:8090/collaboration/api/');
 
 // When the app runs check whether the user navigating through the website is
 // authenticated and authorized to view the exisiting page

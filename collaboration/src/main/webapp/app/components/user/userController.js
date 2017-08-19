@@ -22,7 +22,7 @@ userModule.controller('UserController', function(UserService, $rootScope ,$locat
 		// for displaying the flash message
 		me.flash = UserService.getMessage();
 		// for displaying the welcome messgae
-		me.greeting = 'Welcome to the world of Single Page Application!';
+		me.greeting = 'Welcome to the world of Digital Transformation !!!!!';
 		
 		// for registering a new user
 		//-------------------------------------------------------
