@@ -1,0 +1,44 @@
+html {
+	height:100%;
+}
+
+body {
+  padding-top: 70px;
+  height: 100%;
+}
+
+/*
+	custom styling
+*/
+
+.wrapper {	
+	min-height:100%;
+	position: relative;
+}
+
+
+.content {
+	padding-bottom: 30px; /*height of the footer*/	
+}
+
+
+.footer {
+	
+	position:absolute;
+	bottom:10px;
+	height: 30px;
+	
+}
+
+/* validation classes */
+
+.help-block {
+	color: #ff0000;
+}
+
+.ng-valid {
+	border-color: #008000;
+}
+
+
+
